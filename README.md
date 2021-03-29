@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou estudando sobre desenvolvimento mobile e frameworks/bibliotecas javascript.
 - 👯 Criei uma conta no Medium e planejo escrever nos dias livres.
 - 💡 Amo inovação e tecnologia.
-- ⚡Curiosidade: Gosto de ler sobre liderança, negócios e economia.
+- ⚡Curiosidade: Gosto de ler sobre liderança, negócios e tecnologia.
  
 <div style="display: inline">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirellyssl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true _all_commits=true&count_private=true"/> 
