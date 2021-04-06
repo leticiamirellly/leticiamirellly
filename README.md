@@ -8,7 +8,6 @@
 - ⚡Curiosidade: Gosto de ler sobre liderança, negócios e tecnologia.
  
 <div style="display: inline">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirellyssl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true _all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyssl&layout=compact&langs_count=8&hide_border=true"/>
 </div>
 
