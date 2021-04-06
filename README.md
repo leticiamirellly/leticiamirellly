@@ -6,11 +6,6 @@
 - 👯 Criei uma conta no Medium e planejo escrever nos dias livres.
 - 💡 Amo inovação e tecnologia.
 - ⚡Curiosidade: Gosto de ler sobre liderança, negócios e tecnologia.
- 
-<div style="display: inline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyssl&layout=compact&langs_count=8&hide_border=true"/>
-</div>
-
 
 #### Linguagens e ferramentas:
 <div style="display: inline_block">
