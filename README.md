@@ -1,6 +1,6 @@
 # Letícia Mirelly 
 
-### Sou analista e desenvolvedora de sistemas com foco em front-end.
+### Sou analista e desenvolvedora de sistemas.
 
 <div style="display: inline">
  
