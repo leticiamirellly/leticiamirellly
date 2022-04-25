@@ -1,7 +1,5 @@
 # Letícia Mirelly 
 
-### Sou analista e desenvolvedora de sistemas.
-
 <div style="display: inline">
  
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirellyssl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true _all_commits=true&count_private=true"/> 
