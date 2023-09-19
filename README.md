@@ -1,12 +1,6 @@
 
 # Letícia Mirelly 
 
-<div style="display: inline">
-
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mirellyssl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true _all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellyssl&layout=compact&langs_count=8&hide_border=true"/>
-</div>
-
 - 💡 Front-end Software engineer | Code Enthusiast | Problem Solver 🚀
 - 🌱 I am currently studying integration with AI and Golang.
 - Passionate software developer with a knack for turning complex ideas into elegant, efficient code. I thrive on challenges and am constantly seeking new opportunities to learn and grow in the ever-evolving tech landscape.
