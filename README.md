@@ -1,12 +1,18 @@
+# Mirelly's Profile
 
-# Letícia Mirelly 
+Hello 👋! I'm Letícia Mirelly, a 26-year-old avid tech geek and Frontend software engineer based in Brasília, Brazil. I bring a diverse range of professional experiences acquired by working in different sectors of the Brazilian market. My career spans small, medium and large companies, specializing in areas such as insurance, banking and startups aimed at a broad user base, with platforms serving up to 200 thousand users. Additionally, I have product experience, particularly in the area of ​​kitchen management and more
+Having worked as a developer for over 5 years, my work is focused on improving the user experience and evolving digital products that I believe make a difference to people.
 
-- 💡 Front-end Software engineer | Code Enthusiast | Problem Solver 🚀
-- 🌱 I am currently studying integration with AI and Golang.
-- Passionate software developer with a knack for turning complex ideas into elegant, efficient code. I thrive on challenges and am constantly seeking new opportunities to learn and grow in the ever-evolving tech landscape.
+## What am I up to lately?
 
+- 🔭 Exploring kernel development with Golang and and integration with AI APIs.
+- 🌱 Trying to develop my writing skills to produce on Medium (https://medium.com/@leticia-mirelly).
+- 💻 Recent projects: corporate design system, Boss sign (private for now but will soon be published) and mentored new students in programming. If you are interested, get in touch :).
 
-#### 🛠️ Tech Stack:
+## Looking to connect?
+
+[LinkedIn](https://www.linkedin.com/in/leticiamirelly/)
+
 <div style="display: inline_block">
  <br/>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,8 +27,21 @@
    <img align="center" alt="icon-Vuejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg">
 
 </div>
-
 <br/>
 
-#### 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/leticiamirelly" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
