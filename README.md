@@ -5,7 +5,6 @@ Having worked as a developer for over 5 years, my work is focused on improving t
 
 ## What am I up to lately?
 
-- 🔭 Exploring kernel development with Golang and and integration with AI APIs.
 - 🌱 Trying to develop my writing skills to produce on Medium (https://medium.com/@leticia-mirelly).
 - 💻 Recent projects: corporate design system, Boss sign (private for now but will soon be published) and mentored new students in programming. If you are interested, get in touch :).
 
