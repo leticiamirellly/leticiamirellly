@@ -3,11 +3,6 @@
 Hello 👋! I'm Letícia Mirelly, Frontend software engineer based in Brasília, Brazil. I bring a diverse range of professional experiences acquired by working in different sectors of the Brazilian market. My career spans small, medium and large companies, specializing in areas such as insurance, banking and startups aimed at a broad user base, with platforms serving up to 200 thousand users. Additionally, I have product experience, particularly in the area of ​​kitchen management and more
 Having worked as a developer for over 5 years, my work is focused on improving the user experience and evolving digital products that I believe make a difference to people.
 
-## What am I up to lately?
-
-- 🌱 Trying to develop my writing skills to produce on Medium (https://medium.com/@leticia-mirelly).
-- 💻 Recent projects: corporate design system, Boss sign (private for now but will soon be published) and mentored new students in programming. If you are interested, get in touch :).
-
 ## Looking to connect?
 
 [LinkedIn](https://www.linkedin.com/in/leticiamirelly/)
