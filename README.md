@@ -1,7 +1,3 @@
-# Mirelly's Profile
-
-Hello 👋! I'm Letícia Mirelly, software engineer | Front-end specialist based in Brasília, Brazil. For all these five years, my work is focused on improving the user experience and evolving digital products that I believe make a difference to people. I bring a diverse range of professional experiences acquired by working in different sectors of the Brazilian market. My career spans small, medium and large companies, specializing in areas such as insurance, banking and startups aimed at a broad user base. I am fascinated by autonomous and rapid learning and I am interested in learning new things at every opportunity.
-
 ## Looking to connect?
 
 [LinkedIn](https://www.linkedin.com/in/leticiamirelly/)
